@@ -13,6 +13,15 @@ Useful, free services to help get a new website up and running.
 * [Mixpanel](https://mixpanel.com): Action-based analytics
 * [Heap](https://heapanalytics.com): Instant and retroactive analytics for web and iOS
 
+## Autocomplete
+
+* [Constructor.io](http://constructor.io/): Add fast, typo-tolerant, domain-specific autocomplete as a service to your site
+
+## Communication
+
+* [Slack](https://slack.com/): Team communication through instant messaging and more
+* [Hipchat](https://hipchat.com/) Team communication through instant messaging and more
+
 ## Customer Support
 
 * [Groove](https://www.groovehq.com): Simple help desk software
@@ -25,7 +34,7 @@ Useful, free services to help get a new website up and running.
 
 * [Heroku](https://www.heroku.com/): Platform-as-a-service to host your site
 * [AWS Free Tier](http://aws.amazon.com/free/): Free usage of AWS services, within limits, for a year
-* [Rackspace Developer Tier](https://developer.rackspace.com/): Get $50/month for 12 months for Rackspace cloud services
+* [Rackspace Developer Tier](https://developer.rackspace.com/): Get $50/month for 12 months with $600 free credit for Rackspace cloud services
 
 ## Marketing
 
@@ -42,12 +51,11 @@ Useful, free services to help get a new website up and running.
 ## Project Management
 
 * [Trello](https://trello.com/): Task lists
-* [Slack](https://slack.com/): Team Communication
 
 ## Search
 
-* [Constructor.io](http://constructor.io/): Add autocomplete to your site
-* [Algolia](https://www.algolia.com/): Build Realtime Search
+* [Constructor.io](http://constructor.io/): Fast, typo-tolerant, domain-specific autocomplete as a service
+* [Algolia](https://www.algolia.com/): Search as a service
 
 ## Surveys
 
