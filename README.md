@@ -11,6 +11,7 @@ Useful, free services to help get a new website up and running.
 
 * [Google Analytics](https://analytics.google.com): Site analytics
 * [Mixpanel](https://mixpanel.com): Action-based analytics
+* [Heap](https://heapanalytics.com): Instant and retroactive analytics for web and iOS
 
 ## Customer Support
 
@@ -24,6 +25,7 @@ Useful, free services to help get a new website up and running.
 
 * [Heroku](https://www.heroku.com/): Platform-as-a-service to host your site
 * [AWS Free Tier](http://aws.amazon.com/free/): Free usage of AWS services, within limits, for a year
+* [Rackspace Developer Tier](https://developer.rackspace.com/): Get $50/month for 12 months for Rackspace cloud services
 
 ## Marketing
 
@@ -40,10 +42,12 @@ Useful, free services to help get a new website up and running.
 ## Project Management
 
 * [Trello](https://trello.com/): Task lists
+* [Slack](https://slack.com/): Team Communication
 
 ## Search
 
 * [Constructor.io](http://constructor.io/): Add autocomplete to your site
+* [Algolia](https://www.algolia.com/): Build Realtime Search
 
 ## Surveys
 
