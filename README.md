@@ -20,15 +20,17 @@ Useful, free services to help get a new website up and running.
 ## Communication
 
 * [Slack](https://slack.com/): Team communication through instant messaging and more
-* [Hipchat](https://hipchat.com/) Team communication through instant messaging and more
+* [Hipchat](https://hipchat.com/): Team communication through instant messaging and more
 
 ## Customer Support
 
 * [Groove](https://www.groovehq.com): Simple help desk software
+* [Front](https://frontapp.com/): A shared inboxes built for teams
 
 ## Designing and Prototyping
 
 * [Moqups](https://moqups.com/): Build, edit and share a prototype
+* [InVsion](http://www.invisionapp.com/): A protoyping, collaboration & workflow platform
 
 ## Hosting
 
@@ -38,8 +40,9 @@ Useful, free services to help get a new website up and running.
 
 ## Marketing
 
-* [Mailchimp](http://mailchimp.com/): Send newsletters
+* [Mailchimp](http://mailchimp.com/): Send ninewsletters
 * [Customer.io](http://customer.io/): Drip campaigns
+* [Intercom.io](https://www.intercom.io/): See who your customers are
 * [Wordpress.com](https://wordpress.com/): Blogging platform
 * [Hootsuite](https://hootsuite.com): Manage social media campaigns
 
