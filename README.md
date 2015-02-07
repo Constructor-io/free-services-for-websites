@@ -56,6 +56,7 @@ Useful, free services to help get a new website up and running.
 
 * [Constructor.io](http://constructor.io/): Fast, typo-tolerant, domain-specific autocomplete as a service
 * [Algolia](https://www.algolia.com/): Search as a service
+* [Google Custom Search](https://www.google.com/cse/): Make searching your site easy
 
 ## Surveys
 
