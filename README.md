@@ -20,7 +20,8 @@ Useful, free services to help get a new website up and running.
 ## Communication
 
 * [Slack](https://slack.com/): Team communication through instant messaging and more
-* [Hipchat](https://hipchat.com/) Team communication through instant messaging and more
+* [Hipchat](https://hipchat.com/): Team communication through instant messaging and more
+* [Gitter](https://gitter.im/): Chat, for GitHub.
 
 ## Customer Support
 
@@ -47,6 +48,7 @@ Useful, free services to help get a new website up and running.
 
 * [Pingdom](https://www.pingdom.com/free/): Get notified if your site goes down
 * [New Relic](http://newrelic.com/): Monitor your site performance
+* [Uptime Robot](https://uptimerobot.com/): 50 Monitors, Checked Every 5 Minutes, Totally Free
  
 ## Project Management
 
@@ -61,6 +63,10 @@ Useful, free services to help get a new website up and running.
 ## Surveys
 
 * [Survey Monkey](https://www.surveymonkey.com): Send customer surveys
+
+## Revision Control
+
+* [BitBucket](https://bitbucket.org/): Unlimited private code repositories, Free for 5 users, Git or Mercurial, Lightweight code review, Mac and Windows client
 
 # How To Contribute to This List
 Do you know of a free service (or one with at least a year-long free trial) that can help people build websites?
